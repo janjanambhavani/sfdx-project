@@ -1,0 +1,4 @@
+<AuraDefinitionBundle xmlns="urn:metadata.tooling.soap.sforce.com" fqn="RecordMap">
+<apiVersion>47.0</apiVersion>
+<description>A Lightning Component Bundle</description>
+</AuraDefinitionBundle>
